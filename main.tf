@@ -3,7 +3,7 @@ resource "random_id" "bucket_prefix" {
 }
 
 data "google_billing_account" "acct" {
-  display_name = "sundaram G"
+  display_name = "love.bitavert@gmail.com"
 }
 
 resource "google_project" "my_project" {
